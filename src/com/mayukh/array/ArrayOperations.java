@@ -1,2 +1,4 @@
-package com.mayukh.array;public class ArrayOperations {
+package com.mayukh.array;
+import java.util.*;
+public class ArrayOperations {
 }

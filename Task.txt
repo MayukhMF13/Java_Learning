@@ -1,0 +1,10 @@
+1. Do all operations of array in individual java file
+2.
+i. take the input of the total no.s present in the array of your user.
+ii. generate the array from user input.
+iii. Show a message
+prees 1 for addition of an element in the existing array.
+prees 2 for deletion of a selected element
+press 3 for rotation of the array buy n times(I have to take the value of 'n' as input from the user)
+press 4 for exit
+3.

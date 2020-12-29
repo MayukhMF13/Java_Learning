@@ -1,2 +1,4 @@
-package com.mayukh.array;public class RotationArray {
+package com.mayukh.array;
+
+public class RotationArray {
 }
