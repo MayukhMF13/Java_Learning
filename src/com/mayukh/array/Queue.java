@@ -53,7 +53,7 @@ public class Queue
                     System.out.println("Till now the elements are");
                     for (int i = 0; i < queue.length-1; i++)
                     {
-                        System.out.print(+queue[i]+ " ");
+                        System.out.print(queue[i]+ " ");
                     }
                     break;
                 case 4:
